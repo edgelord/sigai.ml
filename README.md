@@ -1,5 +1,3 @@
-## UIUC's Student Chapter of SIGAI
-
 Sign up for the mailing list [here](https://www-s.acm.illinois.edu/sigs/63).
 
 ## About
