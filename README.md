@@ -1,7 +1,7 @@
 Sign up for the mailing list [here](https://www-s.acm.illinois.edu/sigs/63).
 
 ## About
-We'll meet 1-2 on weekends at a room (TBD).
+We'll meet 1-2 on weekends at 1109 Siebel.
 
 #### Saturday meetings
 
