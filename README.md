@@ -1,4 +1,5 @@
-Sign up for the mailing list [here](https://www-s.acm.illinois.edu/sigs/63).
+Sign up for the mailing list [here](https://www-s.acm.illinois.edu/sigs/63)
+
 Join the [Facebook group](https://www.facebook.com/groups/623608024414854/)
 
 ## About
