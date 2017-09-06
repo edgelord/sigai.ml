@@ -11,3 +11,11 @@ We meet Mondays from 7pm - 9pm in Siebel 1111, **except for Monday, September 4t
 - Ability to setup development environments independently
 - Proficiency in Python
 - Familiarity with machine learning
+
+
+## First Meeting -- 8/7
+- Come in with the following:
+  - Research paper you recently read that was interesting
+  - Research ideas/interests
+  - Ideas for what to do with the SIG
+
