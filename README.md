@@ -8,26 +8,16 @@
 -->
 
 ## Announcements
-Mailing List is now deprecated. Please join the [Slack Channel](https://acm-uiuc.slack.com/messages/sigai/).
-
-## About
-UIUC Interest Group for Artificial Intelligence, including and not limited to: Natural Language Processing, Computer Vision, Reinforcement Learning, and (software side of) Robotics. We plan to gear SIGAI towards the research end of the spectrum and various applications of AI.
-
-This is an advanced SIG: we advise those who are not comfortable with the [Recommended Backgrounds](#recommended-background) to look for alternative SIGs such as [ADSA](https://adsa-uiuc.github.io/quadday/).
-
-We meet Mondays from 7pm - 9pm in Siebel 1111, **except for Monday, September 4th (Labor Day) and Monday, September 11th (CS After Hours).** For these first two meetings, we will meet on Thursdays at the same time and place.
-
-Most of the meetings are coordinated over [Facebook](https://www.facebook.com/groups/623608024414854/).
-
-## Recommended Background
-- Ability to setup development environments independently
-- Proficiency in Python
-- Familiarity with machine learning
+- Please fill out the [SIGAI Feedback Forum](https://docs.google.com/forms/d/e/1FAIpQLScX9DJLahu70RvaN-YpMuXdKu1nZq4IZKdWZl8pixW4xVSjQw/viewform?usp=sf_link)
+- Mailing List is now deprecated. Please join the [Slack Channel](https://acm-uiuc.slack.com/messages/sigai/).
 
 ## Second Meeting -- 8/14
+Last week, members interested in NLP and vision began general discussions. They are in the process of determining what they will work on. 
+
+Members interested in RL decided to go through the first lecture of http://rll.berkeley.edu/deeprlcourse/.
+
 - Be prepared with open discussion on project/course work you decided to work on.
-- Mass posting on Slack about the various projects going on.
-- (tentative) Graduate students coming into talk about the research they are doing
+- Groups will post on Slack about the various projects going on.
 
 ## Meeting Summaries
 ### First Meeting -- 8/7
