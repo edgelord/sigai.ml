@@ -11,13 +11,18 @@
 - Please fill out the [SIGAI Feedback Forum](https://docs.google.com/forms/d/e/1FAIpQLScX9DJLahu70RvaN-YpMuXdKu1nZq4IZKdWZl8pixW4xVSjQw/viewform?usp=sf_link)
 - Mailing List is now deprecated. Please join the [Slack Channel](https://acm-uiuc.slack.com/messages/sigai/).
 
-## Second Meeting -- 8/14
-Last week, members interested in NLP and vision began general discussions. They are in the process of determining what they will work on. 
+## Fourth Meeting -- 8/25
+- Display results, hopefully we have 1111 this time
 
-Members interested in RL decided to go through the first lecture of http://rll.berkeley.edu/deeprlcourse/.
+## Tensorflow Workshop -- 8/21
+- Prereqs:
+  - Please install tensorflow=1.x (1.3 is the latest), NumPy, and Matplotlib
+- Following topics will be covered:
+  - Supervised Learning review
+  - Computational Graphs
+  - Basic Tensorflow
+  - Implementing LeNet from scratch for MNIST
 
-- Be prepared with open discussion on project/course work you decided to work on.
-- Groups will post on Slack about the various projects going on.
 
 ## Meeting Summaries
 ### First Meeting -- 8/7
@@ -25,5 +30,14 @@ Members interested in RL decided to go through the first lecture of http://rll.b
 - Split up into Vision/NLP/RL groups to discuss plans for the semester.
 - Some people decided to work on Stanford's Computer Vision (CS231n), Berkeley's Reinforcement Learning (CS 294).
 
+### Second Meeting -- 8/14
+- Split into groups for discussion about various projects, targeting Spring 2017 Open House
+- RL Group went over Berkeley's CS 294 on Sunday (8/17)
+- Dominic talked to the Computer Vision Group about his research
+
+## Third Meeting -- 8/14
+- Computer Vision began to learn Tensorflow, having a workshop on Thursday (8/21)
+- Reinforcement Learning Group is having a PyTorch Workshop/Lecture, replacing CS 294's Tensorflow Lecture
+- NLP has began to talk about what projects to potentiall work on (speech synthesis/chat bot)
 
 <!-- Honorary Chair: sudo -->
