@@ -15,6 +15,7 @@
 - Display results, hopefully we have 1111 this time
 
 ## Tensorflow Workshop -- 8/21
+- [Presentation GitHub](https://github.com/sig-ai/tf_workshop)
 - Prereqs:
   - Please install tensorflow=1.x (1.3 is the latest), NumPy, and Matplotlib
 - Following topics will be covered:
