@@ -8,11 +8,12 @@
 -->
 
 ## Announcements
-- TF-workshop slides have been updated to fix some issues.
+- 
 
-## Fourth Meeting -- 9/25
-- Display feedback results: hopefully we have 1111 this time.
-- Will will be giving a presentation on his research, directed towards the RL group.
+## Under-planning
+- Paper discussion seminars
+- PyTorch Workshop for General ACM Members (TBD, not sure if it's happening or not)
+- Aim for Spring EOH Projects
 
 ## Meeting Summaries
 ### First Meeting -- 9/7
@@ -31,6 +32,7 @@
 - NLP has began to talk about what projects to potentiall work on (speech synthesis/chat bot)
 
 ### Tensorflow Workshop -- 9/21
+- **Note** the presentation had a bug with LeNet. Both the slides and examples have been updated.
 - [Presentation GitHub](https://github.com/sig-ai/tf_workshop)
 - [Presentation Slides](https://github.com/sig-ai/tf_workshop/blob/master/presentation_1.pdf)
 - Covered the following topics:
@@ -39,6 +41,14 @@
   - Typical Loss Functions
   - Linear Regression/Classification
   - Implementing LeNet
+
+### Fourth Meeting -- 9/25
+- [Meeting Slides](https://github.com/sig-ai/meetings/blob/master/2017_09_25/presentation_1.pdf)
+- Display feedback results -- hopefully we have 1111 this time.
+- Tensorflow workshop review.
+- Will gave a presentation about his research (trains and using inverse reinforcement learning to derive a human-like reward function). His email is [wwbarbo2@illinois.edu](wwbarbo2@illinois.edu).
+- Dominic gave a presentation about SSD (Single Shot Detectors).
+- NLP Group will be giving assignments to members, as a start to their project
 
 
 <!-- Honorary Chair: sudo -->
