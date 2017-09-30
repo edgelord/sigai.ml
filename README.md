@@ -46,7 +46,7 @@
 - [Meeting Slides](https://github.com/sig-ai/meetings/blob/master/2017_09_25/presentation_1.pdf)
 - Display feedback results -- hopefully we have 1111 this time.
 - Tensorflow workshop review.
-- Will gave a presentation about his research (trains and using inverse reinforcement learning to derive a human-like reward function). His email is [wwbarbo2@illinois.edu](wwbarbo2@illinois.edu).
+- Will gave a presentation about his research (trains and using inverse reinforcement learning to derive a human-like reward function).
 - Dominic gave a presentation about SSD (Single Shot Detectors).
 - NLP Group will be giving assignments to members, as a start to their project
 
