@@ -50,5 +50,17 @@
 - Dominic gave a presentation about SSD (Single Shot Detectors).
 - NLP Group will be giving assignments to members, as a start to their project
 
+### Fifth Meeting -- 10/02
+- [Meeting Slides](https://github.com/sig-ai/meetings/blob/master/2017_10_02/presentation_1.pdf)
+- Brief Discussion about the Intergroup Discussions planned for around November
+- Some points brought up (in addition to the slides)
+  - People need prior knowledge to understand some of the papers, prereqs should be listed somewhere
+  - Most people don't know how to read papers, we'll need a good split on the people that can actually read vs. people that can.
+- RL Group covered:
+  - Value Function and on-policy/off-policy review.
+  - Covered Q-Learning, SARSA, Double Q-Learning.
+  - Advantages and Disadvantages of on/off policy
+  - Some intuition on how to actually program Q-Learning. (Small introduction on epsilon greedy, mentioned Experience Replay, Hyperparameter Selection, all the gross stuff)
+
 
 <!-- Honorary Chair: sudo -->
